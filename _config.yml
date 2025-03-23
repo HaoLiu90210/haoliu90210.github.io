@@ -22,7 +22,7 @@ canonical: https://haoliu.github.io/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me.jpg
-favicon: ./assets/img/SDU.jpeg
+favicon: ./assets/img/SDU.png
 favicon_dark: ./assets/img/SDU_dark.png
 
 # Footnote
