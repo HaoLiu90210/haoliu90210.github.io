@@ -1,11 +1,26 @@
 main:
 
-  - title: "KD-Eye: Lightweight Pupil Segmentation For Eye Tracking on VR Headsets via Knowledge Distillation"
-    authors: <strong>Yanlin Li</strong>, Ning Chen, Guangrong Zhao, Yiran Shen*
-    conference_short: WASA2024
-    conference: The International Conference on Wireless Artificial Intelligent Computing Systems and Applications <strong>(WASA)</strong>, 2024. <strong>(CCF-C)</strong>
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-71464-1_18
-    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hfKAb3wG4hMJ:scholar.google.com/&output=citation&scisdr=ClG-DYqpEPrCq_0NP0U:AFWwaeYAAAAAZ0gLJ0WgN5nCQ5DfWVy_rX87VpY&scisig=AFWwaeYAAAAAZ0gLJzcriHJXIPFoOWEYOERmBoY&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/publications_img/KD-Eye.png
+  - title: "CurMIM: Curriculum Masked Image Modeling"
+    authors: <strong>Hao Liu</strong>, Kun Wang, Yudong Han, Haocong Wang, Yupeng Hu*, Chunxiao Wang, Liqiang Nie
+    conference_short: ICASSP 2025
+    conference: The International Conference on International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025. <strong>(CCF-B)</strong>
+    pdf: -
+    bibtex: -
+    image: ./assets/img/publication/CurMIM.png
+
+secondary:
+  - title: "Explicit Granularity and Implicit Scale Correspondence Learning for Point-Supervised Video Moment Localization"
+    authors: Kun Wang, <strong>Hao Liu</strong>, Lirong Jie, Zixu Li, Yupeng Hu*, Liqiang Nie
+    conference_short: MM 2024
+    conference: The International Conference on ACM International Conference on Multimedia<strong>(MM)</strong>, 2025. <strong>(CCF-A, Core A*)</strong>
+    pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3680774
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wSuia7UNAjcJ:scholar.google.com/&output=citation&scisdr=ClGkTIv2EIfR02esp9E:AFWwaeYAAAAAZ9-qv9GCjeKYtDC_mDG1yonEAaY&scisig=AFWwaeYAAAAAZ9-qvyiNxq78_TVZzQy14-2uoE4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/SG-SCI.png
+
+  - title: "CoGCN: co-occurring item-aware GCN for recommendation"
+    authors: Xinxiao Zhao, Fan Liu, <strong>Hao Liu</strong>, Mingzhu Xu, Haoyu Tang, Xueqing Li, Yupeng Hu*
+    conference_short: NCA 2023
+    conference:  Neural Computing and Applications <strong>(NCA)</strong>, 2023. <strong>(CCF-C, WOS Q2)</strong>
+    pdf: https://link.springer.com/article/10.1007/s00521-023-08703-w
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:fjj_tBJdH5wJ:scholar.google.com/&output=citation&scisdr=ClF33ww3EIfR02ev9EA:AFWwaeYAAAAAZ9-p7ED6MWsOMZuhDY5uxTCjW5Q&scisig=AFWwaeYAAAAAZ9-p7LIoTwWiI5Rl7ivlUrvFjzE&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/CoGCN.png
