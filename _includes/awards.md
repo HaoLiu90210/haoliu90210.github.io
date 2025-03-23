@@ -1,11 +1,15 @@
 ##  Awards
-- **NUS GRTII Master's Scholarship (SGD 45,000)**, NUS Guangzhou RTII, Aug. 2024
-- **Meritorious Winner**, The Mathematical Contest in Modeling (ICM), May. 2024
+- **Outstanding Student**, Huawei, Oct. 2024
 - **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
-- **Second Prize (RMB 10,000)**, 2023 Summer Intel oneAPI Campus Hackathon Competition, Nov. 2023
-- **Third Prize**, Shandong University Academic Scholoship, Oct. 2023
-- **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2023
-- **Third Prize**, Shandong University Academic Scholoship, Oct. 2022
-- **Second Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2022
-- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (Top 0.66%), May. 2022
-- **Second Prize**, 2021 Asia and Pacific Mathematical Contest in Modeling, Jan. 2021
+- **Second Prize**, Shandong University Academic Scholoship, Oct. 2023
+- **First Prize**, Shandong University Specialty Scholarship in _Entrepreneurship Practice Category_, Oct. 2023
+- **Second Prize**, Shandong University Academic Scholoship, Oct. 2022
+- **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2022 
+- **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2022
+- **Third Prize**, Shandong Region of National Student Mathematical Modeling Competition, Oct. 2022
+- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (**Top 0.66%**), May. 2022
+- **Golden Medal**, 7th China College Students' 'Internet+' Innovation and Entrepreneurship Competition, Oct. 2021
+- **First Prize**, Shandong University Specialty Scholarship in _Social Work and Volunteer Service_, Oct. 2021
+- **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2021
+- **Second Prize**, Shandong University Specialty Scholarship in _Sports Attainment_, Oct. 2021
+- **Second Prize**, Shandong University Academic Scholoship, Oct. 2021
