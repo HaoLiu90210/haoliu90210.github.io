@@ -9,6 +9,7 @@ main:
     image: ./assets/img/publication/CurMIM.png
 
 secondary:
+
   - title: "Explicit Granularity and Implicit Scale Correspondence Learning for Point-Supervised Video Moment Localization"
     authors: Kun Wang, <strong>Hao Liu</strong>, Lirong Jie, Zixu Li, Yupeng Hu*, Liqiang Nie
     conference_short: MM 2024
