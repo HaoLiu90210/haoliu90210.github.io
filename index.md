@@ -24,7 +24,7 @@ I have conducted scientific research and training in the following areas or issu
 
 ## News
 - **[11/2024]** One paper has been accepted by **IEEE ICASSP 2025** (CCF-B).
-- **[09/2024]** The school-enterprise cooperation project I participated in received **Huawei's Annual Outstanding Technical Cooperation Achievement Award**, and I am glad to be recognized as an **outstanding student**.
+- **[09/2024]** The [school-enterprise cooperation project](https://ilearn.qd.sdu.edu.cn/info/1002/2191.htm) I participated in received **Huawei's Annual Outstanding Technical Cooperation Achievement Award**, and I am glad to be recognized as an **outstanding student**.
 - **[05/2024]** One collaborated paper has been accepted by **ACM MM 2024** (CCF-A, CORE A*).
 - **[01/2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University.
 - **[06/2023]** One collaborated paper has been accepted by **Neural Computing and Applications** (CCF-C, WOS Q2).
