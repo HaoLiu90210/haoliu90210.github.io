@@ -23,3 +23,11 @@
   <li><a href="http://www.cikmconference.org/"><autocolor>CIKM 2025</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Extracurricular Service</h4>
+<ul style="margin:0 0 20px;">
+  <li> Course teaching assistant of <i>Compilation principle</i> for undergraduate, Sep. 2024 - Jan. 2025 </li>
+  <li> Member, the debate team of School of Software, Sep. 2021 - present </li>
+  <li> Member, Think Tank & Science Research Department of School of Software, Sep. 2020 - Jun. 2024</li>
+  <li> Leader of the 4th Debate Team & Volunteer, the 17th ‘Challenge Cup’ Undergraduate Academic and Science and Technology Works Competition in Shandong Province, May 2021</li>
+  <li> Member, Innovation and Entrepreneurship Center of School of Software, Shandong University & Innovation and Entrepreneurship Center of Shandong University, Sep. 2020 - Sep. 2021</li>
+</ul>
