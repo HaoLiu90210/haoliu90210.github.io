@@ -48,6 +48,8 @@
 
 <br>
 
+{% endfor %}
+
 <h3 id="collaborated_publications" style="margin: 2px 0px -15px;">Collaborated Publications</h3>
 {% for link in site.data.publications.secondary %}
 
