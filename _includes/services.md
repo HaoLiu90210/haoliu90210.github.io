@@ -14,10 +14,12 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://cikm2024.org/"><autocolor>CIKM 2024</autocolor></a></li>
+  <li><a href="https://2025.ieeeicassp.org/"><autocolor>ICASSP 2025</autocolor></a></li>
   <li><a href="https://2025.ijcnn.org/"><autocolor>IJCNN 2025</autocolor></a></li>
+  <li><a href="https://cognitivesciencesociety.org/cogsci-2025/"><autocolor>CogSci 2025</autocolor></a></li>
+  <li><a href="https://aom.org/"><autocolor>AOM 2025</autocolor></a></li>
+  <li><a href="https://2025.aclweb.org/"><autocolor>ACL ARR 2025 February</autocolor></a></li>
+  <li><a href="http://www.cikmconference.org/"><autocolor>CIKM 2025</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Chanllege Organizers</h4>
-<ul style="margin:0 0 20px;">
-  <li><a href="https://mm-hall-fact.github.io/ACMMM2025/"><autocolor>(ResMM) Truthful and Responsible Multimodal Learning Challenge@ACM MM 2025</autocolor></a></li>
-</ul>
