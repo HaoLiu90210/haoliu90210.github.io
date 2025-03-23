@@ -6,7 +6,7 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Hao liu. I am a Master of Artificial Intelligence student at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) from September 2024, under the supervision of [Prof. Yupeng Hu](https://scholar.google.com/citations?user=1ubmm5YAAAAJ&hl=zh-CN&oi=ao) and [Prof. Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) in China.
+My name is Hao liu. I am a Master of Artificial Intelligence student at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) from September 2024, under the supervision of [Prof. Yupeng Hu](https://scholar.google.com/citations?user=1ubmm5YAAAAJ&hl=zh-CN&oi=ao). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) in China.
 
 I am actively looking for <font color='red'>PhD</font> positions in 2027 Fall. I am eager to explore novel areas of research (current attempts are to define future directions) and I am also willing to seek some external collaborations. Contact me if you have any leads! Deeply obliged.
 
