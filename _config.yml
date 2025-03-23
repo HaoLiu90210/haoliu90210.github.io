@@ -1,21 +1,21 @@
 
 # Basic Information 
-title: Yanlin Li
-position: Master of Computing(AI) 
-affiliation: National University of Singapore
-email: yanlin.li (at) u.nus.edu
+title: Hao Liu
+position: Master of Artificial Intelligence
+affiliation: Shandong University
+email: liuh90210@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yanlin Li SDU NUS 山东大学 新加坡国立大学
-description: Personal homepage of Yanlin Li
-canonical: https://liyanlin06.github.io/
+# keywords: 
+description: Personal homepage of Hao Liu
+canonical: https://haoliu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=YOcLsPMAAAAJ&hl=en
-cv_link: ./assets/files/CV20250224.pdf
-github_link: https://github.com/liyanlin06/
+# google_scholar: https://scholar.google.com/citations?user=YOcLsPMAAAAJ&hl=en
+# cv_link: ./assets/files/CV20250224.pdf
+# github_link: https://github.com/liyanlin06/
 # wechat_link: https://yanbozhang003.github.io/
 # linkedin: https://www.linkedin.cn/in/yanlin-li-2b411826b/
 
@@ -39,7 +39,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
