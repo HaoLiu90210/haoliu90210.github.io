@@ -1,4 +1,5 @@
 ##  Awards
+- **First Prize**, Shandong University Postgraduate Scholarship, Nov. 2024
 - **Outstanding Student**, Huawei, Oct. 2024
 - **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
 - **Second Prize**, Shandong University Academic Scholoship, Oct. 2023
