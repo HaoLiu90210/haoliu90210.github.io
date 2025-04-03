@@ -4,8 +4,8 @@ main:
     authors: <strong>Hao Liu</strong>, Kun Wang, Yudong Han, Haocong Wang, Yupeng Hu*, Chunxiao Wang, Liqiang Nie
     conference_short: ICASSP 2025
     conference: The International Conference on International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025. <strong>(CCF-B)</strong>
-    pdf: 
-    bibtex: 
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890877
+    bibtex: https://ieeexplore.ieee.org/document/10890877
     image: ./assets/img/publication/CurMIM.png
 
 secondary:
