@@ -22,6 +22,7 @@ I have conducted scientific research and training in the following areas or issu
 - **Research Assistant**, [iLearn](https://ilearn.sdu.edu.cn/), SDU, advised by Prof. Yupeng Hu. [07/2022-06/2024]
 
 ## News
+- **[04/2025]** One paper has been accepted by **ACM SIGIR 2025** (CCF-A, CORE A*).
 - **[11/2024]** One paper has been accepted by **IEEE ICASSP 2025** (CCF-B).
 - **[09/2024]** The [school-enterprise cooperation project](https://ilearn.qd.sdu.edu.cn/info/1002/2191.htm) I participated in received **Huawei's Annual Outstanding Technical Cooperation Achievement Award**, and I am glad to be recognized as an **outstanding student**.
 - **[05/2024]** One collaborated paper has been accepted by **ACM MM 2024** (CCF-A, CORE A*).
