@@ -11,7 +11,7 @@ main:
   - title: "Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval"
     authors: <strong>Hao Liu</strong>, Yupeng Hu*, Kun Wang, Yinwei Wei, Liqiang Nie
     conference_short: SIGIR 2025
-    conference: The International ACM Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2025. <strong>(CCF-A, CORE A*)</strong>
+    conference: The International Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2025. <strong>(CCF-A, CORE A*)</strong>
     pdf: 
     bibtex: 
     image: ./assets/img/publication/GOAL.png
