@@ -6,7 +6,7 @@ layout: homepage
 
 Greetings and thanks for visiting my homepage. 
 
-My name is Hao liu. I am a Master of Artificial Intelligence student at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) from September 2024, under the supervision of [Prof. Yupeng Hu](https://scholar.google.com/citations?user=1ubmm5YAAAAJ&hl=zh-CN&oi=ao). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](http://www.en.sc.sdu.edu.cn/) in [Shandong University](https://www.en.sdu.edu.cn/).
+My name is Hao liu. I am a Master of Artificial Intelligence student at the [School of Software](http://www.en.sc.sdu.edu.cn/), [Shandong University](https://www.en.sdu.edu.cn/) from September 2024, under the supervision of [Prof. Yupeng Hu](https://scholar.google.com/citations?user=1ubmm5YAAAAJ&hl=zh-CN&oi=ao) and [Dr. Kun Wang](https://www.khylon.wang/). Before that, I have obtained the Bachelor of Software Engineering at the [School of Software](http://www.en.sc.sdu.edu.cn/) in [Shandong University](https://www.en.sdu.edu.cn/).
 
 
 ## Research Interests
