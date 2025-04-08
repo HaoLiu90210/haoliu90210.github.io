@@ -13,7 +13,8 @@ My name is Hao liu. I am a Master of Artificial Intelligence student at the [Sch
 
 I have conducted scientific research and training in the following areas or issues.
 - **Video-Text Cross Modal Understanding**: Video moment retrieval and video-text retrieval
-- **Self-supervised Learning**: Better visual representation for images
+- **Gaming Theory for Cross-modal learning**:  Integrate gaming strategies for cross-modal learning
+- **Self-supervised Learning for Vision**: Better visual representation for images
 - **Self-paced Learning**: Dynamic difficulty controlling in training
 - **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
