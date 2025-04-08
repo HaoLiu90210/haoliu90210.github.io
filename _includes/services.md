@@ -19,7 +19,7 @@
   <li><a href="https://2025.ijcnn.org/"><autocolor>IJCNN 2025</autocolor></a></li>
   <li><a href="https://cognitivesciencesociety.org/cogsci-2025/"><autocolor>CogSci 2025</autocolor></a></li>
   <li><a href="https://aom.org/"><autocolor>AOM 2025</autocolor></a></li>
-  <li><a href="https://2025.aclweb.org/"><autocolor>ACL ARR 2025 February</autocolor></a></li>
+  <li><a href="https://2025.aclweb.org/"><autocolor>ACL ARR 2025</autocolor></a></li>
   <li><a href="http://www.cikmconference.org/"><autocolor>CIKM 2025</autocolor></a></li>
 </ul>
 
