@@ -1,5 +1,13 @@
 main:
 
+  - title: "Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval"
+    authors: <strong>Hao Liu</strong>, Yupeng Hu*, Kun Wang, Yinwei Wei, Liqiang Nie
+    conference_short: SIGIR 2025
+    conference: The International Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2025. <strong>(CCF-A, CORE A*)</strong>
+    pdf: 
+    bibtex: 
+    image: ./assets/img/publication/GOAL.png
+    
   - title: "CurMIM: Curriculum Masked Image Modeling"
     authors: <strong>Hao Liu</strong>, Kun Wang, Yudong Han, Haocong Wang, Yupeng Hu*, Chunxiao Wang, Liqiang Nie
     conference_short: ICASSP 2025
@@ -8,13 +16,7 @@ main:
     bibtex: https://ieeexplore.ieee.org/document/10890877
     image: ./assets/img/publication/CurMIM.png
 
-  - title: "Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval"
-    authors: <strong>Hao Liu</strong>, Yupeng Hu*, Kun Wang, Yinwei Wei, Liqiang Nie
-    conference_short: SIGIR 2025
-    conference: The International Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2025. <strong>(CCF-A, CORE A*)</strong>
-    pdf: 
-    bibtex: 
-    image: ./assets/img/publication/GOAL.png
+
 
 secondary:
 
