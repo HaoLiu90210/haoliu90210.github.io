@@ -50,7 +50,7 @@
 
 {% endfor %}
 
-<h3 id="collaborated_publications" style="margin: 2px 0px -15px;">Collaborated Publications</h3>
+<h3 id="collaborated_publications" style="margin: 2px 0px -15px;">Collaborative Publications</h3>
 
 <p style="margin: 15px 0px -15px;"></p>
 {% for link in site.data.publications.secondary %}
