@@ -21,6 +21,7 @@
   <li><a href="https://aom.org/"><autocolor>AOM 2025</autocolor></a></li>
   <li><a href="https://2025.aclweb.org/"><autocolor>ACL ARR 2025</autocolor></a></li>
   <li><a href="http://www.cikmconference.org/"><autocolor>CIKM 2025</autocolor></a></li>
+  <li><a href="https://solar-colm.github.io/"><autocolor>COLM SoLaR 2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Extracurricular Service</h4>
