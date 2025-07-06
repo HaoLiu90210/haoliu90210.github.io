@@ -19,6 +19,14 @@ main:
 
 
 secondary:
+  - title: "DCount: Decoupled Spatial Perception and Attribute Discrimination for Referring Expression Counting"
+    authors: Ming Li, Yupeng Hu*, Yinwei Wei, <strong>Hao Liu</strong>, Haocong Wang, Weili Guan 
+    conference_short: MM 2025
+    conference: The International Conference on ACM International Conference on Multimedia<strong>(MM)</strong>, 2025. <strong>(CCF-A, Core A*)</strong>
+    pdf: 
+    bibtex: 
+    image: ./assets/img/publication/DCount.png
+    
   - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
     authors: Yanlin Li, <strong>Hao Liu</strong>, Huimin Liu, Yinwei Wei, Yupeng Hu*
     conference_short: Arxiv
