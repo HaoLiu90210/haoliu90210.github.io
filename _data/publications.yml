@@ -29,8 +29,8 @@ secondary:
     
   - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
     authors: Yanlin Li, <strong>Hao Liu</strong>, Huimin Liu, Yinwei Wei, Yupeng Hu*
-    conference_short: Arxiv
-    conference: Arxiv, 2025.
+    conference_short: ToMLLM@IJCAI 2025
+    conference: Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025.
     pdf: https://arxiv.org/pdf/2506.14161
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PD5MY7lvlnQJ:scholar.google.com/&output=citation&scisdr=CgLpGUzdEIfR3OAWr_k:AAZF9b8AAAAAaFgQt_mLLvGyn0lK7WMX_pT2EZA&scisig=AAZF9b8AAAAAaFgQt58RcXJ8OHa9CeiMyP-UH3Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/MIST.png
