@@ -94,6 +94,14 @@ secondary:
     pdf: https://dl.acm.org/doi/10.1145/3786606
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AIR46T2jj-oJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYlFlc:AM1tuoMAAAAAalIjDlcT4ePNhj9i56TyxLxvwr0&scisig=AM1tuoMAAAAAalIjDoXOZVm5Ow3pq0cNGbvBolM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/DRONE.png
+
+  - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
+    authors: Yanlin Li, <strong>Hao Liu</strong>, Huimin Liu, Yinwei Wei, Yupeng Hu*
+    conference_short: CogSci 2026
+    conference: The Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025 & The Annual Meeting of the Cognitive Science Society<strong>(CogSci)</strong>, 2026 <strong>(CCF-B)</strong>
+    pdf: https://arxiv.org/pdf/2506.14161
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PD5MY7lvlnQJ:scholar.google.com/&output=citation&scisdr=CgLpGUzdEIfR3OAWr_k:AAZF9b8AAAAAaFgQt_mLLvGyn0lK7WMX_pT2EZA&scisig=AAZF9b8AAAAAaFgQt58RcXJ8OHa9CeiMyP-UH3Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/MIST.png
   
   - title: "DCount: Decoupled Spatial Perception and Attribute Discrimination for Referring Expression Counting"
     authors: Ming Li, Yupeng Hu*, Yinwei Wei, <strong>Hao Liu</strong>, Haocong Wang, Weili Guan 
@@ -103,14 +111,6 @@ secondary:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tZYS0nOQpiEJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYaiZg:AM1tuoMAAAAAalIckZjQiXPO8A7_4l8zCyQ-ulk&scisig=AM1tuoMAAAAAalIckeDz89wX6xJgkbGUS1cfby4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/DCount.png
     
-  - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
-    authors: Yanlin Li, <strong>Hao Liu</strong>, Huimin Liu, Yinwei Wei, Yupeng Hu*
-    conference_short: CogSci 2026
-    conference: The Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025 & The Annual Meeting of the Cognitive Science Society<strong>(CogSci)</strong>, 2026 <strong>(CCF-B)</strong>
-    pdf: https://arxiv.org/pdf/2506.14161
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PD5MY7lvlnQJ:scholar.google.com/&output=citation&scisdr=CgLpGUzdEIfR3OAWr_k:AAZF9b8AAAAAaFgQt_mLLvGyn0lK7WMX_pT2EZA&scisig=AAZF9b8AAAAAaFgQt58RcXJ8OHa9CeiMyP-UH3Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/publication/MIST.png
-
   - title: "Explicit Granularity and Implicit Scale Correspondence Learning for Point-Supervised Video Moment Localization"
     authors: Kun Wang, <strong>Hao Liu</strong>, Lirong Jie, Zixu Li, Yupeng Hu*, Liqiang Nie
     conference_short: MM 2024
