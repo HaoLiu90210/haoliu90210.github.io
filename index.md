@@ -26,7 +26,9 @@ I have conducted scientific research and training in the following areas or issu
 - **Research Assistant**, [iLearn](https://ilearn.sdu.edu.cn/), SDU, advised by Prof. Yupeng Hu. [07/2022-06/2024]
 
 ## News
-- **[07/2026]** One invention patent has been authorized by the China National Intellectual Property Administration.
+
+
+- **[07/2026]** One invention patent, with me as the first inventor, has been granted by the China National Intellectual Property Administration.
 - **[06/2026]** Our team won **1st Place** in [**DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding**](https://datamfm.github.io/challenge.html).
 - **[06/2026]** Our team won **3rd Place** in [**DataMFM Competition @ CVPR 2026, Track 01: Document Parsing**](https://datamfm.github.io/challenge.html).
 - **[04/2026]** Our team won **1st Place** in the [**NTIRE 2026 Challenge on Video Saliency Prediction**](https://www.codabench.org/competitions/12842/).
