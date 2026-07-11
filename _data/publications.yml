@@ -12,6 +12,7 @@ main:
     conference_short: DataMFM 2026
     conference: DataMFM Competition @ CVPR 2026, Track 02, Chart Understanding. <strong>Winner</strong>
     pdf: https://arxiv.org/pdf/2606.10640
+    code: https://github.com/iLearn-Lab/CVPRW26-ChartLens
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gR7_etsT6XcJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwZZA:AM1tuoMAAAAAalI2fZDuBfoGb8GRjI_dzaLV2H0&scisig=AM1tuoMAAAAAalI2fefIXLZVryuoQ-m-xVBpR1U&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/ChartLens.png
 
@@ -20,6 +21,7 @@ main:
     conference_short: DataMFM 2026
     conference: DataMFM Competition @ CVPR 2026, Track 01, Document Parsing. <strong>Third Place</strong>
     pdf: https://arxiv.org/pdf/2606.11977
+    code: https://github.com/iLearn-Lab/CVPRW26-ParseFixer
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h_XNGkYaZXUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwGEQ:AM1tuoMAAAAAalI2AET-xbfVq6tdZ-uGYe6P_f0&scisig=AM1tuoMAAAAAalI2ABAbe3zx0b50BBwjRArxWTE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/ParseFixer.png
 
@@ -28,6 +30,7 @@ main:
     conference_short: NTIRE 2026
     conference: NTIRE 2026 Challenge on Video Saliency Prediction @ CVPR 2026 Workshops. <strong>Winner</strong>
     pdf: https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/html/Wang_ViSAGE__NTIRE_2026_Challenge_on_Video_Saliency_Prediction_CVPRW_2026_paper.html
+    code: https://github.com/iLearn-Lab/CVPRW26-ViSAGE
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jcpcFoLEMosJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYyQDM:AM1tuoMAAAAAalI0WDP1WntRNGVnTg2GDlCb-Kw&scisig=AM1tuoMAAAAAalI0WNjI6Fnhcvu_Z-_NHt1z1RQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/ViSAGE.png
 
@@ -63,6 +66,7 @@ secondary:
     conference_short: TCBB 2026
     conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
     pdf: https://ieeexplore.ieee.org/abstract/document/11419660
+    code: https://github.com/Johnsunnn/METRON
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TBiwsbb4YHUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY_3v4:AM1tuoMAAAAAalI5xv5BwU7T11GZKuE5pqMAnFM&scisig=AM1tuoMAAAAAalI5xl7_3V62b53UbZKBgkX7B6c&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/METRON.png
 
@@ -71,6 +75,7 @@ secondary:
     conference_short: TOMM 2026
     conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
     pdf: https://dl.acm.org/doi/pdf/10.1145/3796708
+    code: https://github.com/tanghaoyu258/FEEL
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JxbH_oqTzeoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY-1V8:AM1tuoMAAAAAalI4zV8J0MnwDThuvpZwbQdl0h4&scisig=AM1tuoMAAAAAalI4zTM2luK5IPJqMzV4bUQHZaI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/FEEL.png
 
