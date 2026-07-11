@@ -13,7 +13,7 @@
 - **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2022 
 - **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2022
 - **Third Prize**, Shandong Region of National Student Mathematical Modeling Competition, Oct. 2022
-- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (**Top 0.66%**), May. 2022
+- **Second Prize**, The 12th National Student Market Research and Analysis Competition National Final (**Top 0.66%**), May 2022
 - **Golden Medal**, 7th China College Students' 'Internet+' Innovation and Entrepreneurship Competition, Oct. 2021
 - **First Prize**, Shandong University Specialty Scholarship in _Social Work and Volunteer Service_, Oct. 2021
 - **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2021
