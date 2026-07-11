@@ -25,17 +25,14 @@ I have conducted scientific research and training in the following areas or issu
 ## Experiences
 - **Research Assistant**, [iLearn](https://ilearn.sdu.edu.cn/), SDU, advised by Prof. Yupeng Hu. [07/2022-06/2024]
 
-
-
-
-
 ## News
-- **[06/2026]** Our team won **1st Place** in **DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding**.
-- **[06/2026]** Our team won **3rd Place** in **DataMFM Competition @ CVPR 2026, Track 01: Document Parsing**.
-- **[04/2026]** Our team won **1st Place** in the **NTIRE 2026 Challenge on Video Saliency Prediction**.
+- **[07/2026]** One invention patent has been authorized by the China National Intellectual Property Administration.
+- **[06/2026]** Our team won **1st Place** in [**DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding**](https://datamfm.github.io/challenge.html).
+- **[06/2026]** Our team won **3rd Place** in [**DataMFM Competition @ CVPR 2026, Track 01: Document Parsing**](https://datamfm.github.io/challenge.html).
+- **[04/2026]** Our team won **1st Place** in the [**NTIRE 2026 Challenge on Video Saliency Prediction**](https://www.codabench.org/competitions/12842/).
 - **[02/2026]** One collaborative paper has been accepted by **TCBB** (CCF-B, JCR Q1).
 - **[01/2026]** One collaborative paper has been accepted by **TOMM** (CCF-B, JCR Q1).
-- **[04/2025]** One paper has been accepted by **ACM SIGIR 2026** (CCF-A, CORE A*).
+- **[04/2026]** One paper has been accepted by **ACM SIGIR 2026** (CCF-A, CORE A*).
 - **[12/2025]** One collaborative paper has been accepted by **TCSVT** (CCF-B, JCR Q1).
 - **[12/2025]** One paper has been accepted by **TMM** (CCF-A, JCR Q1).
 - **[11/2025]** One collaborative paper has been accepted by **TOIS** (CCF-A, JCR Q1).
