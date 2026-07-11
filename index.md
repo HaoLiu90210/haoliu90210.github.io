@@ -18,11 +18,26 @@ I have conducted scientific research and training in the following areas or issu
 - **Self-paced Learning**: Dynamic difficulty controlling in training
 - **Multi-modal LLM:** LLM-based cross-lingual and cross-modal reasoning
 
-
+## Education
+- **M.S. Student**, School of Software, Shandong University. [09/2024-09/2026, transferred to Ph.D. program]
+- **Undergraduate Student**, School of Software, Shandong University. [09/2020-06/2024]
+  
 ## Experiences
 - **Research Assistant**, [iLearn](https://ilearn.sdu.edu.cn/), SDU, advised by Prof. Yupeng Hu. [07/2022-06/2024]
 
+
+
+
+
 ## News
+- **[06/2026]** Our team won **1st Place** in **DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding**.
+- **[06/2026]** Our team won **3rd Place** in **DataMFM Competition @ CVPR 2026, Track 01: Document Parsing**.
+- **[04/2026]** Our team won **1st Place** in the **NTIRE 2026 Challenge on Video Saliency Prediction**.
+- **[04/2025]** One paper has been accepted by **ACM SIGIR 2026** (CCF-A, CORE A*).
+- **[12/2025]** One collaborative paper has been accepted by **TCSVT** (CCF-B, JCR Q1).
+- **[12/2025]** One paper has been accepted by **TMM** (CCF-A, JCR Q1).
+- **[11/2025]** One collaborative paper has been accepted by **TOIS** (CCF-A, JCR Q1).
+- **[10/2025]** I received the **National Scholarship**.
 - **[07/2025]** One collaborative paper has been accepted by **ToMLLM@IJCAI 2025**.
 - **[07/2025]** One collaborative paper has been accepted by **ACM MM 2025** (CCF-A, CORE A*).
 - **[06/2025]** One collaborative paper has been posted on Arxiv.
@@ -31,7 +46,7 @@ I have conducted scientific research and training in the following areas or issu
 - **[09/2024]** The [school-enterprise cooperation project](https://ilearn.qd.sdu.edu.cn/info/1002/2191.htm) I participated in received **Huawei's Annual Outstanding Technical Cooperation Achievement Award**, and I am glad to be recognized as an **outstanding student**.
 - **[05/2024]** One collaborative paper has been accepted by **ACM MM 2024** (CCF-A, CORE A*).
 - **[01/2024]** I am glad to be selected an **outstanding undergraduate graduate** of Shandong University.
-- **[06/2023]** One collaborative paper has been accepted by **Neural Computing and Applications** (CCF-C, WOS Q2).
+- **[06/2023]** One collaborative paper has been accepted by **Neural Computing and Applications** (CCF-C, JCR Q2).
 - **[07/2022]** I join iLearn@SDU Lab as a research assistant, advised by Prof. Yupeng Hu.
 
 {% include_relative _includes/publications.md %}
