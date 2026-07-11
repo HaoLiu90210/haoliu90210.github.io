@@ -1,7 +1,7 @@
 ##  Awards
 - **Winner**, DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding, Jun. 2026
 - **Third Place**, DataMFM Competition @ CVPR 2026, Track 01: Document Parsing, Jun. 2026
-- **Winner**, ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction, Apr. 2026
+- **Winner**, NTIRE 2026 Challenge on Video Saliency Prediction, Apr. 2026
 - **National Scholarship**, Ministry of Education of China, Oct. 2025
 - **First Prize**, Shandong University Academic Scholarship for Graduate Students, Oct. 2025
 - **First Prize**, Shandong University Postgraduate Scholarship, Nov. 2024
