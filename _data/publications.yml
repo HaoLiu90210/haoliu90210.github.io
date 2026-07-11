@@ -58,37 +58,37 @@ main:
 
 
 secondary:
-    - title: "METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation"
-      authors: Zhongshen Li, Jixiang Yu, Shen You, <strong>Hao Liu</strong>, Luyang Cai, Yuxuan Deng, Leyi Wei, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
-      conference_short: TCBB 2026
-      conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
-      pdf: https://ieeexplore.ieee.org/abstract/document/11419660
-      bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TBiwsbb4YHUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY_3v4:AM1tuoMAAAAAalI5xv5BwU7T11GZKuE5pqMAnFM&scisig=AM1tuoMAAAAAalI5xl7_3V62b53UbZKBgkX7B6c&scisf=4&ct=citation&cd=-1&hl=zh-CN
-      image: ./assets/img/publication/METRON.png
-    
-    - title: "Visual Self-paced Iterative Learning for Unsupervised Temporal Action Localization"
-      authors: Yupeng Hu, Han Jiang, <strong>Hao Liu</strong>, Kun Wang, Haoyu Tang, Liqiang Nie
-      conference_short: TOMM 2026
-      conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
-      pdf: https://dl.acm.org/doi/pdf/10.1145/3796708
-      bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JxbH_oqTzeoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY-1V8:AM1tuoMAAAAAalI4zV8J0MnwDThuvpZwbQdl0h4&scisig=AM1tuoMAAAAAalI4zTM2luK5IPJqMzV4bUQHZaI&scisf=4&ct=citation&cd=-1&hl=zh-CN
-      image: ./assets/img/publication/FEEL.png
-  
-   - title: "Redundancy Mitigation: Toward Accurate and Efficient Image–Text Retrieval"
-     authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Lirong Jie, Liqiang Nie
-     conference_short: TCSVT 2026
-     conference: IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
-     pdf: https://ieeexplore.ieee.org/document/11299108
-     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_jSXQUuZ9GoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYbCbk:AM1tuoMAAAAAalIdEbmA4IkncXRJFbFXtgsqhQA&scisig=AM1tuoMAAAAAalIdEfHNVJT20eo5J5HwC7HCYWs&scisf=4&ct=citation&cd=-1&hl=zh-CN
-     image: ./assets/img/publication/MEET.png
-  
-   - title: "Cross-Modal Representation Shift Refinement for Point-supervised Video Moment Retrieval"
-     authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Jiang Shao, Liqiang Nie
-     conference_short: TOIS 2026
-     conference: ACM Transactions on Information Systems<strong>(TOIS)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
-     pdf: https://dl.acm.org/doi/10.1145/3786606
-     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AIR46T2jj-oJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYlFlc:AM1tuoMAAAAAalIjDlcT4ePNhj9i56TyxLxvwr0&scisig=AM1tuoMAAAAAalIjDoXOZVm5Ow3pq0cNGbvBolM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-     image: ./assets/img/publication/DRONE.png
+  - title: "METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation"
+    authors: Zhongshen Li, Jixiang Yu, Shen You, <strong>Hao Liu</strong>, Luyang Cai, Yuxuan Deng, Yuxuan Deng, Leyi Wei, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+    conference_short: TCBB 2026
+    conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+    pdf: https://ieeexplore.ieee.org/abstract/document/11419660
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TBiwsbb4YHUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY_3v4:AM1tuoMAAAAAalI5xv5BwU7T11GZKuE5pqMAnFM&scisig=AM1tuoMAAAAAalI5xl7_3V62b53UbZKBgkX7B6c&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/METRON.png
+
+  - title: "Visual Self-paced Iterative Learning for Unsupervised Temporal Action Localization"
+    authors: Yupeng Hu, Han Jiang, <strong>Hao Liu</strong>, Kun Wang, Haoyu Tang, Liqiang Nie
+    conference_short: TOMM 2026
+    conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3796708
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JxbH_oqTzeoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY-1V8:AM1tuoMAAAAAalI4zV8J0MnwDThuvpZwbQdl0h4&scisig=AM1tuoMAAAAAalI4zTM2luK5IPJqMzV4bUQHZaI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/FEEL.png
+
+  - title: "Redundancy Mitigation: Toward Accurate and Efficient Image–Text Retrieval"
+    authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Lirong Jie, Liqiang Nie
+    conference_short: TCSVT 2026
+    conference: IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+    pdf: https://ieeexplore.ieee.org/document/11299108
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_jSXQUuZ9GoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYbCbk:AM1tuoMAAAAAalIdEbmA4IkncXRJFbFXtgsqhQA&scisig=AM1tuoMAAAAAalIdEfHNVJT20eo5J5HwC7HCYWs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/MEET.png
+
+  - title: "Cross-Modal Representation Shift Refinement for Point-supervised Video Moment Retrieval"
+    authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Jiang Shao, Liqiang Nie
+    conference_short: TOIS 2026
+    conference: ACM Transactions on Information Systems<strong>(TOIS)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
+    pdf: https://dl.acm.org/doi/10.1145/3786606
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AIR46T2jj-oJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYlFlc:AM1tuoMAAAAAalIjDlcT4ePNhj9i56TyxLxvwr0&scisig=AM1tuoMAAAAAalIjDoXOZVm5Ow3pq0cNGbvBolM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/DRONE.png
   
   - title: "DCount: Decoupled Spatial Perception and Attribute Discrimination for Referring Expression Counting"
     authors: Ming Li, Yupeng Hu*, Yinwei Wei, <strong>Hao Liu</strong>, Haocong Wang, Weili Guan 
