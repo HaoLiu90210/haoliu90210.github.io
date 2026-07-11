@@ -7,9 +7,9 @@
 - **First Prize**, Shandong University Postgraduate Scholarship, Nov. 2024
 - **Outstanding Student**, Huawei, Oct. 2024
 - **Outstanding Undergraduate Graduate**, Shandong University, Jan. 2024
-- **Second Prize**, Shandong University Academic Scholoship, Oct. 2023
+- **Second Prize**, Shandong University Academic Scholarship, Oct. 2023
 - **First Prize**, Shandong University Specialty Scholarship in _Entrepreneurship Practice Category_, Oct. 2023
-- **Second Prize**, Shandong University Academic Scholoship, Oct. 2022
+- **Second Prize**, Shandong University Academic Scholarship, Oct. 2022
 - **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2022 
 - **First Prize**, Shandong University Specialty Scholarship in Entrepreneurship Practice Category, Oct. 2022
 - **Third Prize**, Shandong Region of National Student Mathematical Modeling Competition, Oct. 2022
@@ -18,4 +18,4 @@
 - **First Prize**, Shandong University Specialty Scholarship in _Social Work and Volunteer Service_, Oct. 2021
 - **Second Prize**, Shandong University Specialty Scholarship in _Academic Research and Innovation_, Oct. 2021
 - **Second Prize**, Shandong University Specialty Scholarship in _Sports Attainment_, Oct. 2021
-- **Second Prize**, Shandong University Academic Scholoship, Oct. 2021
+- **Second Prize**, Shandong University Academic Scholarship, Oct. 2021
