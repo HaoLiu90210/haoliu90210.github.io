@@ -11,7 +11,7 @@ My name is Hao Liu, and I am from Fuzhou, Fujian, China. I am currently a Master
 
 ## Research Interests
 
-I have conducted scientific research and training in the following areas or issues.
+My research interests include the following areas.
 - **Video-Text Cross-modal Understanding:** Video moment retrieval and video-text retrieval
 - **Game Theory for Cross-modal Learning:** Game-theoretic strategies for cross-modal learning
 - **Self-supervised Learning for Vision:** Better visual representations for images
