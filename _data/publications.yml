@@ -37,7 +37,7 @@ main:
     conference: IEEE Transactions on Multimedia<strong>(TMM)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
     pdf: https://ieeexplore.ieee.org/document/11482501
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:L-nHgwlpZ54J:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY14dc:AM1tuoMAAAAAalIz-deWmG0u-ntUwUXbFBdtMys&scisig=AM1tuoMAAAAAalIz-UZYDSvI1VwRhQMvlr7aE5o&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/publication/Udist.png
+    image: ./assets/img/publication/UDist.png
 
   - title: "Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval"
     authors: <strong>Hao Liu</strong>, Yupeng Hu*, Kun Wang, Yinwei Wei, Liqiang Nie
