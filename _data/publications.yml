@@ -1,4 +1,43 @@
 main:
+  - title: "From Interference to Stability: Adversarial Reliability Correction for Video Moment Retrieval with Relevance Feedback"
+    authors: <strong>Hao Liu</strong>, Yupeng Hu, Kun Wang, Junchao Wang, Ruping Cao, Yutao Yao, Zilu Cai
+    conference_short: SIGIR 2026
+    conference: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval <strong>(SIGIR)</strong>, 2026. <strong>(CCF-A, CORE A*)</strong>
+    pdf: https://dl.acm.org/doi/10.1145/3805712.3809564
+    bibtex: https://dl.acm.org/doi/10.1145/3805712.3809564
+    image: ./assets/img/publication/ARROW.png
+  
+  - title: "ChartLens: A Dual-Branch Framework for Chart Data Correction and Factual Summary Refinement"
+    authors: <strong>Hao Liu</strong>, Ruping Cao, Kun Wang, Zhiran Li, Fan Liu, Yupeng Hu, Liqiang Nie
+    conference_short: DataMFM 2026
+    conference: DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding. <strong>Winner</strong>
+    pdf: https://arxiv.org/pdf/2606.10640
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gR7_etsT6XcJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwZZA:AM1tuoMAAAAAalI2fZDuBfoGb8GRjI_dzaLV2H0&scisig=AM1tuoMAAAAAalI2fefIXLZVryuoQ-m-xVBpR1U&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/ChartLens.png
+
+  - title: "ParseFixer: An Agentic Framework for Document Parsing via Selective Multimodal Correction"
+    authors: LeKai Yu, <strong>Hao Liu</strong>, Kun Wang, Zhiran Li, Ruping Cao, Fan Liu, Yupeng Hu
+    conference_short: DataMFM 2026
+    conference: DataMFM Competition @ CVPR 2026, Track 01: Document Parsing. <strong>Third Place</strong>
+    pdf: https://arxiv.org/pdf/2606.11977
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h_XNGkYaZXUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwGEQ:AM1tuoMAAAAAalI2AET-xbfVq6tdZ-uGYe6P_f0&scisig=AM1tuoMAAAAAalI2ABAbe3zx0b50BBwjRArxWTE&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/ParseFixer.png
+
+  - title: "ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction"
+    authors: Kun Wang, Yupeng Hu, Zhiran Li, <strong>Hao Liu</strong>, Qianlong Xiang, Liqiang Nie
+    conference_short: NTIRE 2026
+    conference: NTIRE 2026 Challenge on Video Saliency Prediction @ CVPR 2026 Workshops. <strong>Winner</strong>
+    pdf: https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/html/Wang_ViSAGE__NTIRE_2026_Challenge_on_Video_Saliency_Prediction_CVPRW_2026_paper.html
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jcpcFoLEMosJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYyQDM:AM1tuoMAAAAAalI0WDP1WntRNGVnTg2GDlCb-Kw&scisig=AM1tuoMAAAAAalI0WNjI6Fnhcvu_Z-_NHt1z1RQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/ViSAGE.png
+
+  - title: "From a Glance to a Boundary: Uncertainty-Aware Distillation for Glance-Supervised Video Moment Localization"
+    authors: Yupeng Hu, <strong>Hao Liu</strong>, Kun Wang, Ruping Cao, Yinwei Wei*, Liqiang Nie
+    conference_short: TMM 2026
+    conference: IEEE Transactions on Multimedia<strong>(TMM)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
+    pdf: https://ieeexplore.ieee.org/document/11482501
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:L-nHgwlpZ54J:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY14dc:AM1tuoMAAAAAalIz-deWmG0u-ntUwUXbFBdtMys&scisig=AM1tuoMAAAAAalIz-UZYDSvI1VwRhQMvlr7aE5o&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/Udist.png
 
   - title: "Gaming for Boundary: Elastic Localization for Frame-Supervised Video Moment Retrieval"
     authors: <strong>Hao Liu</strong>, Yupeng Hu*, Kun Wang, Yinwei Wei, Liqiang Nie
@@ -19,12 +58,44 @@ main:
 
 
 secondary:
+- title: "METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation"
+  authors: Zhongshen Li, Jixiang Yu, Shen You, <strong>Hao Liu</strong>, Luyang Cai, Yuxuan Deng, Leyi Wei, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+  conference_short: TCBB 2026
+  conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+  pdf: https://ieeexplore.ieee.org/abstract/document/11419660
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TBiwsbb4YHUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY_3v4:AM1tuoMAAAAAalI5xv5BwU7T11GZKuE5pqMAnFM&scisig=AM1tuoMAAAAAalI5xl7_3V62b53UbZKBgkX7B6c&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  image: ./assets/img/publication/METRON.png
+
+- title: "Visual Self-paced Iterative Learning for Unsupervised Temporal Action Localization"
+  authors: Yupeng Hu, Han Jiang, <strong>Hao Liu</strong>, Kun Wang, Haoyu Tang, Liqiang Nie
+  conference_short: TOMM 2026
+  conference: ACM Transactions on Multimedia Computing, Communications and Applications <strong>(TOMM)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3796708
+  bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JxbH_oqTzeoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY-1V8:AM1tuoMAAAAAalI4zV8J0MnwDThuvpZwbQdl0h4&scisig=AM1tuoMAAAAAalI4zTM2luK5IPJqMzV4bUQHZaI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+  image: ./assets/img/publication/FEEL.png
+
+ - title: "Redundancy Mitigation: Toward Accurate and Efficient Image–Text Retrieval"
+    authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Lirong Jie, Liqiang Nie
+    conference_short: TCSVT 2026
+    conference: IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+    pdf: https://ieeexplore.ieee.org/document/11299108
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_jSXQUuZ9GoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYbCbk:AM1tuoMAAAAAalIdEbmA4IkncXRJFbFXtgsqhQA&scisig=AM1tuoMAAAAAalIdEfHNVJT20eo5J5HwC7HCYWs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/MEET.png
+
+ - title: "Cross-Modal Representation Shift Refinement for Point-supervised Video Moment Retrieval"
+    authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Jiang Shao, Liqiang Nie
+    conference_short: TOIS 2026
+    conference: ACM Transactions on Information Systems<strong>(TOIS)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
+    pdf: https://dl.acm.org/doi/10.1145/3786606
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AIR46T2jj-oJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYlFlc:AM1tuoMAAAAAalIjDlcT4ePNhj9i56TyxLxvwr0&scisig=AM1tuoMAAAAAalIjDoXOZVm5Ow3pq0cNGbvBolM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/publication/DRONE.png
+  
   - title: "DCount: Decoupled Spatial Perception and Attribute Discrimination for Referring Expression Counting"
     authors: Ming Li, Yupeng Hu*, Yinwei Wei, <strong>Hao Liu</strong>, Haocong Wang, Weili Guan 
     conference_short: MM 2025
     conference: The International Conference on ACM International Conference on Multimedia<strong>(MM)</strong>, 2025. <strong>(CCF-A, Core A*)</strong>
-    pdf: 
-    bibtex: 
+    pdf: https://dl.acm.org/doi/abs/10.1145/3746027.3755872
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tZYS0nOQpiEJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYaiZg:AM1tuoMAAAAAalIckZjQiXPO8A7_4l8zCyQ-ulk&scisig=AM1tuoMAAAAAalIckeDz89wX6xJgkbGUS1cfby4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/DCount.png
     
   - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
