@@ -10,7 +10,7 @@ main:
   - title: "ChartLens: A Dual-Branch Framework for Chart Data Correction and Factual Summary Refinement"
     authors: <strong>Hao Liu</strong>, Ruping Cao, Kun Wang, Zhiran Li, Fan Liu, Yupeng Hu, Liqiang Nie
     conference_short: DataMFM 2026
-    conference: DataMFM Competition @ CVPR 2026, Track 02: Chart Understanding. <strong>Winner</strong>
+    conference: DataMFM Competition @ CVPR 2026, Track 02, Chart Understanding. <strong>Winner</strong>
     pdf: https://arxiv.org/pdf/2606.10640
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gR7_etsT6XcJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwZZA:AM1tuoMAAAAAalI2fZDuBfoGb8GRjI_dzaLV2H0&scisig=AM1tuoMAAAAAalI2fefIXLZVryuoQ-m-xVBpR1U&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/ChartLens.png
@@ -18,7 +18,7 @@ main:
   - title: "ParseFixer: An Agentic Framework for Document Parsing via Selective Multimodal Correction"
     authors: LeKai Yu, <strong>Hao Liu</strong>, Kun Wang, Zhiran Li, Ruping Cao, Fan Liu, Yupeng Hu
     conference_short: DataMFM 2026
-    conference: DataMFM Competition @ CVPR 2026, Track 01: Document Parsing. <strong>Third Place</strong>
+    conference: DataMFM Competition @ CVPR 2026, Track 01, Document Parsing. <strong>Third Place</strong>
     pdf: https://arxiv.org/pdf/2606.11977
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h_XNGkYaZXUJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYwGEQ:AM1tuoMAAAAAalI2AET-xbfVq6tdZ-uGYe6P_f0&scisig=AM1tuoMAAAAAalI2ABAbe3zx0b50BBwjRArxWTE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/ParseFixer.png
