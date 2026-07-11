@@ -37,7 +37,7 @@ main:
   - title: "From a Glance to a Boundary: Uncertainty-Aware Distillation for Glance-Supervised Video Moment Localization"
     authors: Yupeng Hu, <strong>Hao Liu</strong>, Kun Wang, Ruping Cao, Yinwei Wei*, Liqiang Nie
     conference_short: TMM 2026
-    conference: IEEE Transactions on Multimedia<strong>(TMM)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
     pdf: https://ieeexplore.ieee.org/document/11482501
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:L-nHgwlpZ54J:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZY14dc:AM1tuoMAAAAAalIz-deWmG0u-ntUwUXbFBdtMys&scisig=AM1tuoMAAAAAalIz-UZYDSvI1VwRhQMvlr7aE5o&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/UDist.png
@@ -53,7 +53,7 @@ main:
   - title: "CurMIM: Curriculum Masked Image Modeling"
     authors: <strong>Hao Liu</strong>, Kun Wang, Yudong Han, Haocong Wang, Yupeng Hu*, Chunxiao Wang, Liqiang Nie
     conference_short: ICASSP 2025
-    conference: The International Conference on International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025. <strong>(CCF-B)</strong>
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025. <strong>(CCF-B)</strong>
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890877
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0oLqwVOsJlwJ:scholar.google.com/&output=citation&scisdr=CgI30-JTEIfR3K9HC6k:AAZF9b8AAAAAaBdBE6kUqsv5I6tPe5mPPHxrvxs&scisig=AAZF9b8AAAAAaBdBE1oaN1l3XJbrrchrn2z15lg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/CurMIM.png
@@ -62,7 +62,7 @@ main:
 
 secondary:
   - title: "METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation"
-    authors: Zhongshen Li, Jixiang Yu, Shen You, <strong>Hao Liu</strong>, Luyang Cai, Yuxuan Deng, Yuxuan Deng, Leyi Wei, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+    authors: Zhongshen Li, Jixiang Yu, Shen You, <strong>Hao Liu</strong>, Luyang Cai, Yuxuan Deng, Leyi Wei, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
     conference_short: TCBB 2026
     conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics <strong>(TCBB)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
     pdf: https://ieeexplore.ieee.org/abstract/document/11419660
@@ -82,7 +82,7 @@ secondary:
   - title: "Redundancy Mitigation: Toward Accurate and Efficient Image–Text Retrieval"
     authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Lirong Jie, Liqiang Nie
     conference_short: TCSVT 2026
-    conference: IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026. <strong>(CCF-B, JCR Q1)</strong>
     pdf: https://ieeexplore.ieee.org/document/11299108
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:_jSXQUuZ9GoJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYbCbk:AM1tuoMAAAAAalIdEbmA4IkncXRJFbFXtgsqhQA&scisig=AM1tuoMAAAAAalIdEfHNVJT20eo5J5HwC7HCYWs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/MEET.png
@@ -90,7 +90,7 @@ secondary:
   - title: "Cross-Modal Representation Shift Refinement for Point-supervised Video Moment Retrieval"
     authors: Kun Wang, Yupeng Hu*, <strong>Hao Liu</strong>, Jiang Shao, Liqiang Nie
     conference_short: TOIS 2026
-    conference: ACM Transactions on Information Systems<strong>(TOIS)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
+    conference: ACM Transactions on Information Systems <strong>(TOIS)</strong>, 2026. <strong>(CCF-A, JCR Q1)</strong>
     pdf: https://dl.acm.org/doi/10.1145/3786606
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AIR46T2jj-oJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYlFlc:AM1tuoMAAAAAalIjDlcT4ePNhj9i56TyxLxvwr0&scisig=AM1tuoMAAAAAalIjDoXOZVm5Ow3pq0cNGbvBolM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/DRONE.png
@@ -98,23 +98,23 @@ secondary:
   - title: "MIST: Towards Multi-dimensional Implicit Bias and Stereotype Evaluation of LLMs via Theory of Mind"
     authors: Yanlin Li, <strong>Hao Liu</strong>, Huimin Liu, Yinwei Wei, Yupeng Hu*
     conference_short: CogSci 2026
-    conference: The Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025 & The Annual Meeting of the Cognitive Science Society<strong>(CogSci)</strong>, 2026 <strong>(CCF-B)</strong>
+    conference: The Generative AI and ToM in Communicating Agent Workshop @ IJCAI 2025 & The Annual Meeting of the Cognitive Science Society <strong>(CogSci)</strong>, 2026 <strong>(CCF-B)</strong>
     pdf: https://arxiv.org/pdf/2506.14161
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PD5MY7lvlnQJ:scholar.google.com/&output=citation&scisdr=CgLpGUzdEIfR3OAWr_k:AAZF9b8AAAAAaFgQt_mLLvGyn0lK7WMX_pT2EZA&scisig=AAZF9b8AAAAAaFgQt58RcXJ8OHa9CeiMyP-UH3Y&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/MIST.png
   
   - title: "DCount: Decoupled Spatial Perception and Attribute Discrimination for Referring Expression Counting"
     authors: Ming Li, Yupeng Hu*, Yinwei Wei, <strong>Hao Liu</strong>, Haocong Wang, Weili Guan 
-    conference_short: MM 2025
-    conference: The International Conference on ACM International Conference on Multimedia<strong>(MM)</strong>, 2025. <strong>(CCF-A, Core A*)</strong>
+    conference_short: ACM MM 2025
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025. <strong>(CCF-A, CORE A*)</strong>
     pdf: https://dl.acm.org/doi/abs/10.1145/3746027.3755872
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:tZYS0nOQpiEJ:scholar.google.com/&output=citation&scisdr=CslGcfhSEOKkwZYaiZg:AM1tuoMAAAAAalIckZjQiXPO8A7_4l8zCyQ-ulk&scisig=AM1tuoMAAAAAalIckeDz89wX6xJgkbGUS1cfby4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/DCount.png
     
   - title: "Explicit Granularity and Implicit Scale Correspondence Learning for Point-Supervised Video Moment Localization"
     authors: Kun Wang, <strong>Hao Liu</strong>, Lirong Jie, Zixu Li, Yupeng Hu*, Liqiang Nie
-    conference_short: MM 2024
-    conference: The International Conference on ACM International Conference on Multimedia<strong>(MM)</strong>, 2024. <strong>(CCF-A, Core A*)</strong>
+    conference_short: ACM MM 2024
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024. <strong>(CCF-A, CORE A*)</strong>
     pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3680774
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wSuia7UNAjcJ:scholar.google.com/&output=citation&scisdr=ClGkTIv2EIfR02esp9E:AFWwaeYAAAAAZ9-qv9GCjeKYtDC_mDG1yonEAaY&scisig=AFWwaeYAAAAAZ9-qvyiNxq78_TVZzQy14-2uoE4&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/publication/SG-SCI.png
