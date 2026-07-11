@@ -29,7 +29,7 @@
   <li><a href="https://cikm2026.diag.uniroma1.it/"><autocolor>CIKM 2026</autocolor></a></li>
   <li><a href="https://cognitivesciencesociety.org/cogsci-2026/"><autocolor>CogSci 2026</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/aaai-27/"><autocolor>AAAI 2027</autocolor></a></li>
-  <li><a href="https://attend.ieee.org/wcci-2026/"><autocolor>IJCNN 2027</autocolor></a></li>
+  <li><a href="https://ijcnn.org/2027"><autocolor>IJCNN 2027</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Extracurricular Service</h4>
